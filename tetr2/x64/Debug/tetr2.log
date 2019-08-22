@@ -1,0 +1,22 @@
+﻿  Source.cpp
+c:\users\user\desktop\шаг\tetr2\tetr2\source.cpp(370): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\user\desktop\шаг\tetr2\tetr2\source.cpp(407): warning C4305: инициализация: усечение из "double" в "float"
+c:\users\user\desktop\шаг\tetr2\tetr2\source.cpp(461): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\user\desktop\шаг\tetr2\tetr2\source.cpp(464): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\user\desktop\шаг\tetr2\tetr2\source.cpp(469): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\user\desktop\шаг\tetr2\tetr2\source.cpp(472): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\user\desktop\шаг\tetr2\tetr2\source.cpp(517): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\user\desktop\шаг\tetr2\tetr2\source.cpp(520): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\user\desktop\шаг\tetr2\tetr2\source.cpp(525): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\user\desktop\шаг\tetr2\tetr2\source.cpp(528): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\user\desktop\шаг\tetr2\tetr2\source.cpp(615): warning C4305: =: усечение из "double" в "float"
+c:\users\user\desktop\шаг\tetr2\tetr2\source.cpp(718): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\user\desktop\шаг\tetr2\tetr2\source.cpp(737): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\user\desktop\шаг\tetr2\tetr2\source.cpp(738): warning C4305: =: усечение из "double" в "float"
+c:\users\user\desktop\шаг\tetr2\tetr2\source.cpp(749): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\user\desktop\шаг\tetr2\tetr2\source.cpp(757): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\user\desktop\шаг\tetr2\tetr2\source.cpp(764): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\user\desktop\шаг\tetr2\tetr2\source.cpp(771): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\user\desktop\шаг\tetr2\tetr2\source.cpp(778): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\user\desktop\шаг\tetr2\tetr2\source.cpp(847): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  tetr2.vcxproj -> C:\Users\User\Desktop\шаг\tetr2\x64\Debug\tetr2.exe
